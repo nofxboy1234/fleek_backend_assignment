@@ -36,5 +36,5 @@ def save_to_db(rows):
         if row["table"] == "Aircraft":
             save_aircraft(row)
 
-        if row["table"] == "Flight":
-            save_flight(row)
+        # if row["table"] == "Flight":
+        #     save_flight(row)

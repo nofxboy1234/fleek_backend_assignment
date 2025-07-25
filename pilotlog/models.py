@@ -54,5 +54,5 @@ class Aircraft(models.Model):
         return field_verbose_names
 
 
-class Flight(models.Model):
-    pass
+# class Flight(models.Model):
+#     pass
