@@ -53,8 +53,17 @@ class Aircraft(models.Model):
 
         return field_verbose_names
 
+    def __str__(self):
+        return self.aircraft_code
+
+
 class Flight(models.Model):
-    flight_code = models.CharField(max_length=255, primary_key=True, default="00000000-0000-0000-0000-000000011362", verbose_name="FlightCode")
+    flight_code = models.CharField(
+        max_length=255,
+        primary_key=True,
+        default="00000000-0000-0000-0000-000000011362",
+        verbose_name="FlightCode",
+    )
     pf = models.BooleanField(default=False, verbose_name="PF")
     pax = models.IntegerField(default=0, verbose_name="Pax")
     fuel = models.IntegerField(default=0, verbose_name="Fuel")
@@ -70,10 +79,26 @@ class Flight(models.Model):
     dep_rwy = models.CharField(max_length=255, default="", verbose_name="DepRwy")
     ldg_day = models.IntegerField(default=0, verbose_name="LdgDay")
     lift_sw = models.IntegerField(default=0, verbose_name="LiftSW")
-    p1_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000000808", verbose_name="P1Code")
-    p2_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000000001", verbose_name="P2Code")
-    p3_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000000000", verbose_name="P3Code")
-    p4_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000000000", verbose_name="P4Code")
+    p1_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000000808",
+        verbose_name="P1Code",
+    )
+    p2_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000000001",
+        verbose_name="P2Code",
+    )
+    p3_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000000000",
+        verbose_name="P3Code",
+    )
+    p4_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000000000",
+        verbose_name="P4Code",
+    )
     report = models.TextField(default="", verbose_name="Report")
     tag_ops = models.CharField(max_length=255, default="", verbose_name="TagOps")
     to_edit = models.BooleanField(default=False, verbose_name="ToEdit")
@@ -84,9 +109,17 @@ class Flight(models.Model):
     min_pic = models.IntegerField(default=0, verbose_name="minPIC")
     min_rel = models.IntegerField(default=0, verbose_name="minREL")
     min_sfr = models.IntegerField(default=0, verbose_name="minSFR")
-    arr_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000017531", verbose_name="ArrCode")
+    arr_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000017531",
+        verbose_name="ArrCode",
+    )
     date_utc = models.DateField(default="2011-10-18", verbose_name="DateUTC")
-    dep_code = models.CharField(max_length=255, default="00000000-0000-0000-0000-000000016665", verbose_name="DepCode")
+    dep_code = models.CharField(
+        max_length=255,
+        default="00000000-0000-0000-0000-000000016665",
+        verbose_name="DepCode",
+    )
     hobbs_in = models.IntegerField(default=0, verbose_name="HobbsIn")
     holding = models.IntegerField(default=0, verbose_name="Holding")
     pairing = models.CharField(max_length=255, default="", verbose_name="Pairing")
@@ -122,13 +155,27 @@ class Flight(models.Model):
     ldg_time_utc = models.IntegerField(default=0, verbose_name="LdgTimeUTC")
     fuel_planned = models.IntegerField(default=0, verbose_name="FuelPlanned")
     next_summary = models.BooleanField(default=False, verbose_name="NextSummary")
-    tag_approach = models.CharField(max_length=255, default="401", verbose_name="TagApproach")
-    aircraft_code = models.ForeignKey(Aircraft, on_delete=models.CASCADE, db_column="aircraft_code", verbose_name="AircraftCode")
+    tag_approach = models.CharField(
+        max_length=255, default="401", verbose_name="TagApproach"
+    )
+    aircraft_code = models.ForeignKey(
+        Aircraft,
+        on_delete=models.CASCADE,
+        db_column="aircraft_code",
+        verbose_name="AircraftCode",
+        related_name="flights",
+    )
     arr_time_sched = models.IntegerField(default=0, verbose_name="ArrTimeSCHED")
     dep_time_sched = models.IntegerField(default=0, verbose_name="DepTimeSCHED")
-    flight_number = models.CharField(max_length=255, default="2706", verbose_name="FlightNumber")
-    flight_search = models.CharField(max_length=255, default="20111018:2706BCNPRG", verbose_name="FlightSearch")
-    record_modified = models.IntegerField(default=1616320991, verbose_name="Record_Modified")
+    flight_number = models.CharField(
+        max_length=255, default="2706", verbose_name="FlightNumber"
+    )
+    flight_search = models.CharField(
+        max_length=255, default="20111018:2706BCNPRG", verbose_name="FlightSearch"
+    )
+    record_modified = models.IntegerField(
+        default=1616320991, verbose_name="Record_Modified"
+    )
 
     def __str__(self):
         return self.flight_number
