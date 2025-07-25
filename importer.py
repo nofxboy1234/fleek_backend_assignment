@@ -1,6 +1,6 @@
 import json
 
-from pilotlog.models import Aircraft, Flight
+from pilotlog.models import Aircraft
 
 
 def import_json(json_file):
@@ -14,9 +14,12 @@ def get_db_fields_to_data(row):
     verbose_to_fields = Aircraft.get_verbose_names_to_fields()
     db_fields_to_data = {}
 
-    for key in row.meta.keys():
+    print(row)
+    for key in row["meta"].keys():
         db_field = verbose_to_fields[key]
-        db_fields_to_data[db_field] = row.meta[key]
+        db_fields_to_data[db_field] = row["meta"][key]
+
+    return db_fields_to_data
 
 
 def save_aircraft(row):
