@@ -8,8 +8,13 @@ django.setup()
 import exporter
 from pilotlog.models import Aircraft, Flight
 
-rows = Aircraft.objects.all()
-exporter.save_to_csv(rows, "Aircraft")
+# [{}, {}]
+# [{}, {}]
+# {"Aircraft": [{}, {}], "Flight": [{}, {}]}
 
-rows = Flight.objects.all()
-exporter.save_to_csv(rows, "Flight")
+tables = {}
+
+tables["Aircraft"] = Aircraft.objects.all()
+tables["Flight"] = Flight.objects.all()
+
+exporter.save_to_csv(tables)

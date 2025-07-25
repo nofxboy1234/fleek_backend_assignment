@@ -1,3 +1,268 @@
+Fin,Sea,TMG,Efis,FNPT,Make,Run2,Class,Model,Power,Seats,Active,Kg5700,Rating,Company,Complex,CondLog,FavList,Category,HighPerf,SubModel,Aerobatic,RefSearch,Reference,Tailwheel,DefaultApp,DefaultLog,DefaultOps,DeviceCode,AircraftCode,DefaultLaunch,Record_Modified
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHALI,PH-ALI,False,0,2,0,1,00000000-0000-0000-0000-000000000367,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHGRA,PH-GRA,False,0,2,0,1,00000000-0000-0000-0000-000000000368,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHSKF,PH-SKF,False,0,2,0,1,00000000-0000-0000-0000-000000000369,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHVRW,PH-VRW,False,0,2,0,1,00000000-0000-0000-0000-000000000370,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHRVX,PH-RVX,False,0,2,0,1,00000000-0000-0000-0000-000000000371,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,PHBVL,PH-BVL,False,0,2,0,1,00000000-0000-0000-0000-000000000372,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,PHASY,PH-ASY,False,0,2,0,1,00000000-0000-0000-0000-000000000373,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,PHGVE,PH-GVE,False,0,2,0,1,00000000-0000-0000-0000-000000000374,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,PHLIN,PH-LIN,False,0,2,0,1,00000000-0000-0000-0000-000000000375,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N3994F,N3994F,False,0,2,0,1,00000000-0000-0000-0000-000000000376,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N170ND,N170ND,False,0,2,0,1,00000000-0000-0000-0000-000000000377,0,1616320991
+,False,False,False,0,Yakovlev,False,5,YAK52,1,0,True,False,,,True,69,False,1,True,,True,URBLH,UR-BLH,False,0,2,0,1,00000000-0000-0000-0000-000000000378,0,1616320991
+,False,False,False,0,Yakovlev,False,5,YAK52,1,0,True,False,,,True,69,False,1,True,,True,URBLA,UR-BLA,False,0,2,0,1,00000000-0000-0000-0000-000000000379,0,1616320991
+,False,False,False,0,Mooney,False,5,M20J,1,0,True,False,,,True,69,False,1,True,,False,PHDAG,PH-DAG,False,0,2,0,1,00000000-0000-0000-0000-000000000380,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,PHPIE,PH-PIE,False,0,2,0,1,00000000-0000-0000-0000-000000000381,0,1616320991
+,False,False,False,0,Piper,False,5,P32R,4,0,True,False,,Other,True,69,False,1,True,,False,PHLFD,PH-LFD,False,0,2,0,1,00000000-0000-0000-0000-000000000382,0,1616320991
+,False,False,False,2,,False,5,F132,1,0,True,False,,IST Flight Training,False,69,False,1,False,,False,PHEVS,PH-EVS,False,0,2,0,2,00000000-0000-0000-0000-000000000383,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N47455,N47455,False,0,2,0,1,00000000-0000-0000-0000-000000000384,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N4826Q,N4826Q,False,0,2,0,1,00000000-0000-0000-0000-000000000385,0,1616320991
+,False,False,False,2,,False,5,F132,4,0,True,False,,,False,69,False,1,False,,False,132,132,False,0,2,0,2,00000000-0000-0000-0000-000000000386,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N21803,N21803,False,0,2,0,1,00000000-0000-0000-0000-000000000387,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N39WT,N39WT,False,0,2,0,1,00000000-0000-0000-0000-000000000388,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N15379,N15379,False,0,2,0,1,00000000-0000-0000-0000-000000000389,0,1616320991
+,False,False,False,0,Piper,False,5,PA34,4,0,True,False,,Other,False,69,False,1,False,,False,N57368,N57368,False,0,2,0,1,00000000-0000-0000-0000-000000000390,0,1616320991
+,False,False,False,0,Piper,False,5,PA34,4,0,True,False,,Other,False,69,False,1,False,,False,N4581T,N4581T,False,0,2,0,1,00000000-0000-0000-0000-000000000391,0,1616320991
+,False,False,False,0,Mooney,False,5,M20J,1,0,True,False,,,True,69,False,1,True,,False,N100HQ,N100HQ,False,0,2,0,1,00000000-0000-0000-0000-000000000392,0,1616320991
+,False,False,False,0,,False,5,P28A,1,0,True,False,,Other,False,69,False,1,False,,False,N8292A,N8292A,False,0,2,0,1,00000000-0000-0000-0000-000000000393,0,1616320991
+,False,False,False,0,Piper,False,5,P32R,4,0,True,False,,Other,True,69,False,1,True,,False,N42RG,N42RG,False,0,2,0,1,00000000-0000-0000-0000-000000000394,0,1616320991
+,False,False,False,0,Piper,False,5,PA44,4,0,True,False,,Other,True,69,False,1,False,,False,N39777,N39777,False,0,2,0,1,00000000-0000-0000-0000-000000000395,0,1616320991
+,False,False,False,0,,False,5,P28A,1,0,True,False,,,False,69,False,1,False,,False,PHWSF,PH-WSF,False,0,2,0,1,00000000-0000-0000-0000-000000000396,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,N1927H,N1927H,False,0,2,0,1,00000000-0000-0000-0000-000000000397,0,1616320991
+,False,False,False,0,,False,5,P28A,1,0,True,False,,Other,False,69,False,1,False,,False,PHEDD,PH-EDD,False,0,2,0,1,00000000-0000-0000-0000-000000000398,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,N24516,N24516,False,0,2,0,1,00000000-0000-0000-0000-000000000399,0,1616320991
+,False,False,False,0,Piper,False,5,PA34,4,0,True,False,,Other,True,69,False,1,False,,False,N41298,N41298,False,0,2,0,1,00000000-0000-0000-0000-000000000400,0,1616320991
+,False,False,False,0,,False,5,C72R,1,0,True,False,,Other,True,69,False,1,False,,False,N6612V,N6612V,False,0,2,0,1,00000000-0000-0000-0000-000000000401,0,1616320991
+,False,False,False,0,Piper,False,5,PA34,4,0,True,False,,Other,True,69,False,1,False,,False,N44159,N44159,False,0,2,0,1,00000000-0000-0000-0000-000000000402,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,N775SP,N775SP,False,0,2,0,1,00000000-0000-0000-0000-000000000403,0,1616320991
+,False,False,False,0,Piper,False,5,PA44,4,0,True,False,,Other,True,69,False,1,False,,False,N83223,N83223,False,0,2,0,1,00000000-0000-0000-0000-000000000404,0,1616320991
+,False,False,False,0,,False,5,C177,1,0,True,False,,Other,True,69,False,1,False,,False,N4AW,N4AW,False,0,2,0,1,00000000-0000-0000-0000-000000000405,0,1616320991
+,False,False,False,0,,False,5,P28A,1,0,True,False,,Other,False,69,False,1,False,,False,N202AS,N202AS,False,0,2,0,1,00000000-0000-0000-0000-000000000406,0,1616320991
+,False,False,False,0,,False,5,PA38,1,0,True,False,,,False,69,False,1,False,,False,N9209A,N9209A,False,0,2,0,1,00000000-0000-0000-0000-000000000407,0,1616320991
+,False,False,False,0,,False,5,P28A,1,0,True,False,,Other,False,69,False,1,False,,False,N465TC,N465TC,False,0,2,0,1,00000000-0000-0000-0000-000000000408,0,1616320991
+,False,False,False,0,Piper,False,5,PA44,4,0,True,False,,Other,True,69,False,1,False,,False,N114N,N114N,False,0,2,0,1,00000000-0000-0000-0000-000000000409,0,1616320991
+,True,False,False,0,Maule,False,5,M7,1,0,True,False,,Other,True,69,False,1,True,,False,N366FS,N366FS,False,0,2,0,1,00000000-0000-0000-0000-000000000410,0,1616320991
+,False,False,False,2,,False,5,F121,1,0,True,False,,IST Flight Training,False,69,False,1,False,,False,PHSVS,PH-SVS,False,0,2,0,2,00000000-0000-0000-0000-000000000411,0,1616320991
+,False,False,False,0,Piper,False,5,P28R,1,0,True,False,,Other,True,69,False,1,False,,False,PHWCU,PH-WCU,False,0,2,0,1,00000000-0000-0000-0000-000000000412,0,1616320991
+,False,False,False,0,,False,5,BE76,4,0,True,False,,AIS,True,69,False,1,False,,False,PHOSD,PH-OSD,False,0,2,0,1,00000000-0000-0000-0000-000000000413,0,1616320991
+,False,False,False,2,Beechcraft,False,5,B200,5,0,True,True,,Flightware,False,69,False,2,False,,False,NL988,NL98/8,False,0,2,0,2,00000000-0000-0000-0000-000000000414,0,1616320991
+,False,False,False,0,Fokker,False,5,F100,6,0,True,True,,CAE,False,69,False,2,False,,False,CAEAMS,CAE-AMS,False,0,2,0,2,00000000-0000-0000-0000-000000000415,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,PHRCF,PH-RCF,False,0,2,0,1,00000000-0000-0000-0000-000000000416,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,CAE,False,69,False,2,False,200,False,EIAB,EIA-B,False,0,2,0,2,00000000-0000-0000-0000-000000000417,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,CAE,False,69,False,2,False,200,False,EIA023,EIA-023,False,0,2,0,2,00000000-0000-0000-0000-000000000418,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,,False,69,False,2,False,200,False,UKGE322,UK-GE-322,False,0,2,0,2,00000000-0000-0000-0000-000000000419,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,,False,69,False,2,False,200,False,UKFB284,UK-FB-284,False,0,2,0,2,00000000-0000-0000-0000-000000000420,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPC,HA-LPC,False,401,2,0,1,00000000-0000-0000-0000-000000000421,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHACH,PH-ACH,False,0,2,0,1,00000000-0000-0000-0000-000000000422,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPO,HA-LPO,False,401,2,0,1,00000000-0000-0000-0000-000000000423,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPL,HA-LPL,False,401,2,0,1,00000000-0000-0000-0000-000000000424,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPB,HA-LPB,False,401,2,0,1,00000000-0000-0000-0000-000000000425,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPJ,HA-LPJ,False,401,2,0,1,00000000-0000-0000-0000-000000000426,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPR,HA-LPR,False,401,2,0,1,00000000-0000-0000-0000-000000000427,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPI,HA-LPI,False,401,2,0,1,00000000-0000-0000-0000-000000000428,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPQ,HA-LPQ,False,401,2,0,1,00000000-0000-0000-0000-000000000429,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPH,HA-LPH,False,401,2,0,1,00000000-0000-0000-0000-000000000430,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPK,HA-LPK,False,401,2,0,1,00000000-0000-0000-0000-000000000431,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPE,HA-LPE,False,401,2,0,1,00000000-0000-0000-0000-000000000432,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPD,HA-LPD,False,401,2,0,1,00000000-0000-0000-0000-000000000433,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPA,HA-LPA,False,401,2,0,1,00000000-0000-0000-0000-000000000434,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,PHHIL,PH-HIL,False,0,2,0,1,00000000-0000-0000-0000-000000000435,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPN,HA-LPN,False,401,2,0,1,00000000-0000-0000-0000-000000000436,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPF,HA-LPF,False,401,2,0,1,00000000-0000-0000-0000-000000000437,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPM,HA-LPM,False,401,2,0,1,00000000-0000-0000-0000-000000000438,0,1616320991
+,False,False,False,0,Cessna,False,5,C152,1,0,True,False,,Biernat,False,69,False,1,False,Aerobat,False,SPRBA,SP-RBA,False,0,2,0,1,00000000-0000-0000-0000-000000000439,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPT,HA-LPT,False,401,2,0,1,00000000-0000-0000-0000-000000000440,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPS,HA-LPS,False,401,2,0,1,00000000-0000-0000-0000-000000000441,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,,False,69,False,1,False,,False,HAJUT,HA-JUT,False,0,2,0,1,00000000-0000-0000-0000-000000000442,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Biernat,False,69,False,1,False,,False,SPKSO,SP-KSO,False,0,2,0,1,00000000-0000-0000-0000-000000000443,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPX,HA-LPX,False,401,2,0,1,00000000-0000-0000-0000-000000000444,0,1616320991
+,False,False,False,0,Cirrus,False,5,SR22,1,0,True,False,,,False,69,False,1,True,,False,N376SR,N376SR,False,0,2,0,1,00000000-0000-0000-0000-000000000445,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPV,HA-LPV,False,401,2,0,1,00000000-0000-0000-0000-000000000446,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPW,HA-LPW,False,401,2,0,1,00000000-0000-0000-0000-000000000447,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPU,HA-LPU,False,401,2,0,1,00000000-0000-0000-0000-000000000448,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPZ,HA-LPZ,False,401,2,0,1,00000000-0000-0000-0000-000000000449,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,,False,69,False,1,False,,False,HASLE,HA-SLE,False,0,2,0,1,00000000-0000-0000-0000-000000000450,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWA,HA-LWA,False,401,2,0,1,00000000-0000-0000-0000-000000000451,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWC,HA-LWC,False,401,2,0,1,00000000-0000-0000-0000-000000000452,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWB,HA-LWB,False,401,2,0,1,00000000-0000-0000-0000-000000000453,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALPY,HA-LPY,False,401,2,0,1,00000000-0000-0000-0000-000000000454,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWD,HA-LWD,False,401,2,0,1,00000000-0000-0000-0000-000000000455,0,1616320991
+,False,False,False,2,,False,5,PA34,4,0,True,False,,F-AIR,False,69,False,1,False,,False,OKMEX,OK-MEX,False,0,4,0,2,00000000-0000-0000-0000-000000000456,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,,False,69,False,2,False,200,False,UKGE193,UK-GE-193,False,0,2,0,2,00000000-0000-0000-0000-000000000457,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,OKHKC,OK-HKC,False,0,2,0,1,00000000-0000-0000-0000-000000000458,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,OKSOB,OK-SOB,False,0,2,0,1,00000000-0000-0000-0000-000000000459,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,OKFOX,OK-FOX,False,0,2,0,1,00000000-0000-0000-0000-000000000460,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Sofia Flight Training,False,69,False,2,False,200,False,FI014AZ,FI-014AZ,False,0,2,0,2,00000000-0000-0000-0000-000000000461,0,1616320991
+,False,False,False,0,Cessna,False,5,C150,1,0,True,False,,Other,False,69,False,1,False,,False,OKPES,OK-PES,False,0,2,0,1,00000000-0000-0000-0000-000000000462,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,OKKUN,OK-KUN,False,0,2,0,1,00000000-0000-0000-0000-000000000463,0,1616320991
+,False,False,False,0,Zlin,False,5,Z142,1,0,True,False,,,True,69,False,1,True,,True,OKLNK,OK-LNK,False,0,2,0,1,00000000-0000-0000-0000-000000000464,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,OKABC,OK-ABC,False,0,2,0,1,00000000-0000-0000-0000-000000000465,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,OKEYE,OK-EYE,False,0,2,0,1,00000000-0000-0000-0000-000000000466,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWL,HA-LWL,False,401,2,0,1,00000000-0000-0000-0000-000000000467,0,1616320991
+,False,False,False,2,,False,5,ATR42,5,0,True,True,,CSA,False,69,False,2,False,,False,OKJFK,OK-JFK,False,0,2,0,2,00000000-0000-0000-0000-000000000468,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Other,False,69,False,1,False,,False,OKTUR,OK-TUR,False,0,2,0,1,00000000-0000-0000-0000-000000000469,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,,False,69,False,2,False,200,False,UKGE240,UK-GE-240,False,0,2,0,2,00000000-0000-0000-0000-000000000470,0,1616320991
+,False,False,False,0,Cessna,False,5,C152,1,0,True,False,,Other,False,69,False,1,False,Aerobat,False,OKSUP,OK-SUP,False,0,2,0,1,00000000-0000-0000-0000-000000000471,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWK,HA-LWK,False,401,2,0,1,00000000-0000-0000-0000-000000000472,0,1616320991
+,False,False,False,0,Cirrus,False,5,SR20,1,0,True,False,,Other,False,69,False,1,True,,False,OKTWI,OK-TWI,False,0,2,0,1,00000000-0000-0000-0000-000000000473,0,1616320991
+,False,False,False,0,Cessna,False,5,C152,1,0,True,False,,Other,False,69,False,1,False,Aerobat,False,OKHAD,OK-HAD,False,0,2,0,1,00000000-0000-0000-0000-000000000475,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWO,HA-LWO,False,401,2,0,1,00000000-0000-0000-0000-000000000476,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWP,HA-LWP,False,401,2,0,1,00000000-0000-0000-0000-000000000477,0,1616320991
+,False,False,False,0,Cirrus,False,5,SR22,1,0,True,False,,F-Air,True,69,False,1,True,,False,OKRTA,OK-RTA,False,0,2,0,1,00000000-0000-0000-0000-000000000478,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,,False,69,False,2,False,200,False,UKGE547,UK-GE-547,False,0,2,0,2,00000000-0000-0000-0000-000000000479,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWN,HA-LWN,False,401,2,0,1,00000000-0000-0000-0000-000000000480,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWF,HA-LWF,False,401,2,0,1,00000000-0000-0000-0000-000000000481,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,A320,CSA,False,128,False,2,False,200,False,CZ08B,CZ-08B,False,0,4,0,2,00000000-0000-0000-0000-000000000482,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Wizz Air,False,69,False,2,False,200,False,NL203Z,NL-203Z,False,0,2,0,2,00000000-0000-0000-0000-000000000484,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTD,TC-JTD,False,0,1,0,1,00000000-0000-0000-0000-000000000485,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLM,TC-JLM,False,0,1,0,1,00000000-0000-0000-0000-000000000486,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJUB,TC-JUB,False,0,1,0,1,00000000-0000-0000-0000-000000000487,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUI,TC-JUI,False,0,1,0,1,00000000-0000-0000-0000-000000000488,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPG,TC-JPG,False,0,1,0,1,00000000-0000-0000-0000-000000000489,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPT,TC-JPT,False,0,1,0,1,00000000-0000-0000-0000-000000000490,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTE,TC-JTE,False,0,1,0,1,00000000-0000-0000-0000-000000000491,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRJ,TC-JRJ,False,0,1,0,1,00000000-0000-0000-0000-000000000492,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRU,TC-JRU,False,0,1,0,1,00000000-0000-0000-0000-000000000493,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSP,TC-JSP,False,0,1,0,1,00000000-0000-0000-0000-000000000494,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPK,TC-JPK,False,0,1,0,1,00000000-0000-0000-0000-000000000495,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALYC,HA-LYC,False,401,2,0,1,00000000-0000-0000-0000-000000300001,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWT,HA-LWT,False,401,2,0,1,00000000-0000-0000-0000-000000300002,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALYB,HA-LYB,False,401,2,0,1,00000000-0000-0000-0000-000000300003,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWQ,HA-LWQ,False,401,2,0,1,00000000-0000-0000-0000-000000300004,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWM,HA-LWM,False,401,2,0,1,00000000-0000-0000-0000-000000300005,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWY,HA-LWY,False,401,1,0,1,00000000-0000-0000-0000-000000300006,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWE,HA-LWE,False,401,1,0,1,00000000-0000-0000-0000-000000300007,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWJ,HA-LWJ,False,401,1,0,1,00000000-0000-0000-0000-000000300008,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALWV,HA-LWV,False,401,1,0,1,00000000-0000-0000-0000-000000300009,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,180,True,True,A320,Wizz Air,True,69,False,2,True,200,False,HALYE,HA-LYE,False,401,1,0,1,00000000-0000-0000-0000-000000300010,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Wizz Air,False,69,False,2,False,100,False,WIZ320,Wiz-320,False,0,1,0,1,00000000-0000-0000-0000-000000300011,0,1616320991
+,False,False,False,1,Airbus,False,5,A320,6,0,True,False,A320,CATC,False,0,False,2,False,214,False,CZ06A,CZ-06A,False,0,4,0,2,00000000-0000-0000-0000-000000300012,0,1616320991
+SIM,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Wizz Air,False,69,False,2,False,100,False,SIM,SIM,False,0,1,0,2,00000000-0000-0000-0000-000000300013,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,OK Air,False,69,False,1,False,,False,OKOKB,OK-OKB,False,0,1,0,1,00000000-0000-0000-0000-000000300014,0,1616320991
+,False,False,False,0,Cessna,False,5,C172,1,0,True,False,,Airplanes 4 rent,False,69,False,1,False,,False,N309MM,N309MM,False,0,1,0,1,00000000-0000-0000-0000-000000300015,0,1616320991
+,False,False,False,0,Cessna,False,5,C152,1,0,True,False,,Airplanes 4 Rent,False,69,False,1,False,,False,N714UY,N714UY,False,0,1,0,1,00000000-0000-0000-0000-000000300016,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Wizz Air,False,69,False,2,False,100,False,HALYJ,HA-LYJ,False,0,1,0,1,00000000-0000-0000-0000-000000300017,0,1616320991
+,False,False,False,0,Cessna,False,5,C152,1,0,True,False,,OK Air,False,0,False,1,False,,False,OKOKA,OK-OKA,False,0,0,0,1,00000000-0000-0000-0000-000001000001,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,True,128,False,2,True,,False,EUA0046,EU-A0046,False,0,0,0,2,00000000-0000-0000-0000-000001000002,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,True,128,False,2,True,,False,EUAT1A1O91,EU-AT1A1O91,False,0,0,0,2,00000000-0000-0000-0000-000001000003,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJMH,TC-JMH,False,0,1,0,1,00000000-0000-0000-0000-000001000004,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLS,TC-JLS,False,0,1,0,1,00000000-0000-0000-0000-000001000005,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRO,TC-JRO,False,0,1,0,1,00000000-0000-0000-0000-000001000006,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSM,TC-JSM,False,0,1,0,1,00000000-0000-0000-0000-000001000007,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRM,TC-JRM,False,0,1,0,1,00000000-0000-0000-0000-000001000008,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPI,TC-JPI,False,0,1,0,1,00000000-0000-0000-0000-000001000009,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRR,TC-JRR,False,0,1,0,1,00000000-0000-0000-0000-000001000010,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRP,TC-JRP,False,0,1,0,1,00000000-0000-0000-0000-000001000011,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUF,TC-JUF,False,0,1,0,1,00000000-0000-0000-0000-000001000012,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLV,TC-JLV,False,0,1,0,1,00000000-0000-0000-0000-000001000013,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPR,TC-JPR,False,0,1,0,1,00000000-0000-0000-0000-000001000014,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUE,TC-JUE,False,0,1,0,1,00000000-0000-0000-0000-000001000015,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPP,TC-JPP,False,0,1,0,1,00000000-0000-0000-0000-000001000016,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPB,TC-JPB,False,0,1,0,1,00000000-0000-0000-0000-000001000017,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPF,TC-JPF,False,0,1,0,1,00000000-0000-0000-0000-000001000018,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLP,TC-JLP,False,0,1,0,1,00000000-0000-0000-0000-000001000019,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJAI,TC-JAI,False,0,1,0,1,00000000-0000-0000-0000-000001000020,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLR,TC-JLR,False,0,1,0,1,00000000-0000-0000-0000-000001000021,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSB,TC-JSB,False,0,1,0,1,00000000-0000-0000-0000-000001000022,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPJ,TC-JPJ,False,0,1,0,1,00000000-0000-0000-0000-000001000023,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPH,TC-JPH,False,0,1,0,1,00000000-0000-0000-0000-000001000024,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJST,TC-JST,False,0,1,0,1,00000000-0000-0000-0000-000001000025,0,1616320991
+,False,False,False,0,,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJMM,TC-JMM,False,0,1,0,1,00000000-0000-0000-0000-000001000026,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJBI,TC-JBI,False,0,1,0,1,00000000-0000-0000-0000-000001000027,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJUD,TC-JUD,False,0,1,0,1,00000000-0000-0000-0000-000001000028,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSF,TC-JSF,False,0,1,0,1,00000000-0000-0000-0000-000001000029,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUJ,TC-JUJ,False,0,1,0,1,00000000-0000-0000-0000-000001000030,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRH,TC-JRH,False,0,1,0,1,00000000-0000-0000-0000-000001000031,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLN,TC-JLN,False,0,1,0,1,00000000-0000-0000-0000-000001000032,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPO,TC-JPO,False,0,1,0,1,00000000-0000-0000-0000-000001000033,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTA,TC-JTA,False,0,1,0,1,00000000-0000-0000-0000-000001000034,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPU,TC-JPU,False,0,1,0,1,00000000-0000-0000-0000-000001000035,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSA,TC-JSA,False,0,1,0,1,00000000-0000-0000-0000-000001000036,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJMJ,TC-JMJ,False,0,1,0,1,00000000-0000-0000-0000-000001000037,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSU,TC-JSU,False,0,1,0,1,00000000-0000-0000-0000-000001000038,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSL,TC-JSL,False,0,1,0,1,00000000-0000-0000-0000-000001000039,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPA,TC-JPA,False,0,1,0,1,00000000-0000-0000-0000-000001000043,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRZ,TC-JRZ,False,0,1,0,1,00000000-0000-0000-0000-000001000044,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUK,TC-JUK,False,0,1,0,1,00000000-0000-0000-0000-000001000045,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRT,TC-JRT,False,0,1,0,1,00000000-0000-0000-0000-000001000046,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJMK,TC-JMK,False,0,1,0,1,00000000-0000-0000-0000-000001000047,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPS,TC-JPS,False,0,1,0,1,00000000-0000-0000-0000-000001000048,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,SIMA319,SIMA319,False,0,1,0,2,00000000-0000-0000-0000-000001600001,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLZ,TC-JLZ,False,0,1,0,1,00000000-0000-0000-0000-000001600002,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPM,TC-JPM,False,0,1,0,1,00000000-0000-0000-0000-000001600003,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSZ,TC-JSZ,False,0,1,0,1,00000000-0000-0000-0000-000001600004,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSV,TC-JSV,False,0,1,0,1,00000000-0000-0000-0000-000001600005,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRA,TC-JRA,False,0,1,0,1,00000000-0000-0000-0000-000001600006,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRL,TC-JRL,False,0,1,0,1,00000000-0000-0000-0000-000001600007,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJML,TC-JML,False,0,1,0,1,00000000-0000-0000-0000-000001600008,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPY,TC-JPY,False,0,1,0,1,00000000-0000-0000-0000-000001600009,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSO,TC-JSO,False,0,1,0,1,00000000-0000-0000-0000-000001600010,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSS,TC-JSS,False,0,1,0,1,00000000-0000-0000-0000-000001600011,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,SIMA320,SIMA320,False,0,1,0,2,00000000-0000-0000-0000-000001600012,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRC,TC-JRC,False,0,1,0,1,00000000-0000-0000-0000-000001600013,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLY,TC-JLY,False,0,1,0,1,00000000-0000-0000-0000-000001600014,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRY,TC-JRY,False,0,1,0,1,00000000-0000-0000-0000-000001600015,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLU,TC-JLU,False,0,1,0,1,00000000-0000-0000-0000-000001600016,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJUG,TC-JUG,False,0,1,0,1,00000000-0000-0000-0000-000001600017,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJMI,TC-JMI,False,0,1,0,1,00000000-0000-0000-0000-000001600019,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSI,TC-JSI,False,0,1,0,1,00000000-0000-0000-0000-000001600020,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRN,TC-JRN,False,0,1,0,1,00000000-0000-0000-0000-000001600021,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSH,TC-JSH,False,0,1,0,1,00000000-0000-0000-0000-000001600022,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPD,TC-JPD,False,0,1,0,1,00000000-0000-0000-0000-000001600023,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSY,TC-JSY,False,0,1,0,1,00000000-0000-0000-0000-000001600024,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRV,TC-JRV,False,0,1,0,1,00000000-0000-0000-0000-000001600025,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRI,TC-JRI,False,0,1,0,1,00000000-0000-0000-0000-000001600026,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCYAR,TC-YAR,False,0,1,0,1,00000000-0000-0000-0000-000001600027,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRD,TC-JRD,False,0,1,0,1,00000000-0000-0000-0000-000001600028,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJUA,TC-JUA,False,0,1,0,1,00000000-0000-0000-0000-000001600029,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTH,TC-JTH,False,0,1,0,1,00000000-0000-0000-0000-000001600030,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRB,TC-JRB,False,0,1,0,1,00000000-0000-0000-0000-000001600031,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSR,TC-JSR,False,0,1,0,1,00000000-0000-0000-0000-000001600032,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTG,TC-JTG,False,0,1,0,1,00000000-0000-0000-0000-000001600033,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPL,TC-JPL,False,0,1,0,1,00000000-0000-0000-0000-000001600034,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRF,TC-JRF,False,0,1,0,1,00000000-0000-0000-0000-000001600035,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSD,TC-JSD,False,0,1,0,1,00000000-0000-0000-0000-000001600036,0,1616320991
+,False,False,False,0,Airbus,False,5,A319,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJLT,TC-JLT,False,0,1,0,1,00000000-0000-0000-0000-000001600037,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPC,TC-JPC,False,0,1,0,1,00000000-0000-0000-0000-000001600038,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSK,TC-JSK,False,0,1,0,1,00000000-0000-0000-0000-000001600039,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSJ,TC-JSJ,False,0,1,0,1,00000000-0000-0000-0000-000001600040,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTK,TC-JTK,False,0,1,0,1,00000000-0000-0000-0000-000001600041,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSC,TC-JSC,False,0,1,0,1,00000000-0000-0000-0000-000001600042,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTN,TC-JTN,False,0,1,0,1,00000000-0000-0000-0000-000001600043,0,1616320991
+,False,False,False,18,AIRBUS,False,5,A320,6,0,True,False,A320,Turkish Airlines,False,0,False,2,False,200,False,EUUKTK534,EU-UKTK534,False,0,0,0,2,00000000-0000-0000-0000-000001600044,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJSG,TC-JSG,False,0,1,0,1,00000000-0000-0000-0000-000001600045,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJFR,TC-JFR,False,0,1,0,1,00000000-0000-0000-0000-000001600046,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTL,TC-JTL,False,0,1,0,1,00000000-0000-0000-0000-000001600047,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJRE,TC-JRE,False,0,1,0,1,00000000-0000-0000-0000-000001600048,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJVN,TC-JVN,False,0,1,0,1,00000000-0000-0000-0000-000001600049,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTO,TC-JTO,False,0,1,0,1,00000000-0000-0000-0000-000001600050,0,1616320991
+,False,False,False,0,Airbus,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,200,False,TCJTI,TC-JTI,False,0,1,0,1,00000000-0000-0000-0000-000001600051,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,True,,Turkish Airlines,False,69,False,2,False,100,False,TCJPN,TC-JPN,False,0,1,0,1,00000000-0000-0000-0000-000001600052,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJTF,TC-JTF,False,0,1,0,1,00000000-0000-0000-0000-000001600053,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJTP,TC-JTP,False,0,1,0,1,00000000-0000-0000-0000-000001600055,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJTJ,TC-JTJ,False,0,1,0,1,00000000-0000-0000-0000-000001600056,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJTR,TC-JTR,False,0,1,0,1,00000000-0000-0000-0000-000001600057,0,1616320991
+,False,False,False,0,CESSNA,False,5,C150,1,0,True,False,,OK AIR,False,0,False,1,False,,False,OKOKG,OK-OKG,False,0,0,0,1,00000000-0000-0000-0000-000001600058,0,1616320991
+,False,False,False,0,,False,5,A321,6,0,True,True,,Turkish Airlines,False,69,False,2,False,,False,TCJRG,TC-JRG,False,0,1,0,1,00000000-0000-0000-0000-000001600059,0,1616320991
+,False,False,False,18,Gulfstream,False,5,G550,6,0,True,True,,CAE UK,False,0,False,2,True,,False,UKCA625A,UK-CA(625A),False,0,0,0,2,00000000-0000-0000-0000-000001600060,0,1616320991
+,False,False,False,0,Gulfstream,False,5,G500,6,0,True,True,,Lux Aviation,True,64,False,2,True,,False,OEIIS,OE-IIS,False,0,0,0,1,00000000-0000-0000-0000-000001600061,0,1616320991
+,False,False,False,0,Gulfstream,False,5,G450,6,0,True,True,G-V,Lux Aviation,True,68,False,2,False,,False,OELAR,OE-LAR,False,0,0,0,1,00000000-0000-0000-0000-000001600062,0,1616320991
+,False,False,False,1,Airbus,False,5,A320,6,0,True,True,,CATC,True,0,False,2,True,232,False,CZ06B,CZ-06B,False,0,0,0,2,00000000-0000-0000-0000-000001600063,0,1616320991
+,False,False,False,18,Airbus,False,5,A320,6,0,True,False,,,False,0,False,2,False,,False,UK173AB,UK173A/B,False,0,0,0,2,00000000-0000-0000-0000-000001600064,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,False,,SZS,False,0,False,2,False,NEO,False,EISIA,EI-SIA,False,0,0,0,1,00000000-0000-0000-0000-000001600065,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,False,,SZS,False,0,False,2,False,NEO,False,EISIB,EI-SIB,False,0,0,0,1,00000000-0000-0000-0000-000001600066,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,False,,SZS,False,0,False,2,False,NEO,False,EISIC,EI-SIC,False,0,0,0,1,00000000-0000-0000-0000-000001600067,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,False,,SZS,False,0,False,2,False,NEO,False,EISID,EI-SID,False,0,0,0,1,00000000-0000-0000-0000-000001600068,0,1616320991
+,False,False,False,0,Airbus,False,5,A320,6,0,True,False,,SZS,False,0,False,2,False,NEO,False,EISIE,EI-SIE,False,0,0,0,1,00000000-0000-0000-0000-000001600069,0,1616320991
+,False,False,False,0,,False,5,Model X,6,0,True,False,,SZS,False,69,False,2,False,,False,NoTAIL,NoTAIL,False,0,1,0,1,00000000-0000-0000-0000-000001600070,0,1616320991
+,False,False,False,0,,False,5,A20N,6,0,True,True,,SZS,False,69,False,2,False,,False,EISIF,EI-SIF,False,0,1,0,1,00000000-0000-0000-0000-000001600071,0,1616320991
+,False,False,False,0,,False,5,A20N,6,0,True,True,,SZS,False,69,False,2,False,,False,EISIG,EI-SIG,False,0,1,0,1,00000000-0000-0000-0000-000001600072,0,1616320991
+,False,False,False,0,,False,5,A20N,6,0,True,True,,SZS,False,69,False,2,False,,False,EISIH,EI-SIH,False,0,1,0,1,00000000-0000-0000-0000-000001600073,0,1616320991
+,False,False,False,0,,False,5,A20N,6,0,True,True,,SZS,False,69,False,2,False,,False,EISII,EI-SII,False,0,1,0,1,00000000-0000-0000-0000-000001600074,0,1616320991
+,False,False,False,0,,False,5,ACFT-X,6,0,False,True,,,False,0,False,2,False,,False,XXREG,XX-REG,False,0,0,0,1,00000000-1111-0000-0000-000000000000,0,0
+,False,False,False,0,,False,5,SIM-X,6,0,False,True,,,False,0,False,2,False,,False,XXSIM,XX-SIM,False,0,0,0,2,00000000-2222-0000-0000-000000000000,0,0
+,False,False,False,0,,False,1,DRONE-X,0,0,False,True,,,False,0,False,1,False,,False,XXDRONE,XX-DRONE,False,0,0,0,3,00000000-3333-0000-0000-000000000000,0,0
 FlightCode,PF,Pax,Fuel,DeIce,Route,ToDay,minU1,minU2,minU3,minU4,minXC,ArrRwy,DepRwy,LdgDay,LiftSW,P1Code,P2Code,P3Code,P4Code,Report,TagOps,ToEdit,minAIR,minCOP,minIFR,minIMT,minPIC,minREL,minSFR,ArrCode,DateUTC,DepCode,HobbsIn,Holding,Pairing,Remarks,SignBox,ToNight,UserNum,minDUAL,minEXAM,CrewList,DateBASE,FuelUsed,HobbsOut,LdgNight,NextPage,TagDelay,Training,UserBool,UserText,minINSTR,minNIGHT,minPICUS,minTOTAL,ArrOffset,DateLOCAL,DepOffset,TagLaunch,TagLesson,ToTimeUTC,ArrTimeUTC,BaseOffset,DepTimeUTC,LdgTimeUTC,FuelPlanned,NextSummary,TagApproach,AircraftCode,ArrTimeSCHED,DepTimeSCHED,FlightNumber,FlightSearch,Record_Modified
 00000000-0000-0000-0000-000000009218,True,0,0,False,,1,0,0,0,0,0,,,1,0,00000000-0000-0000-0000-000000000001,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,,,False,0,0,0,0,0,0,0,00000000-0000-0000-0000-000000009693,1998-03-16,00000000-0000-0000-0000-000000009693,0,0,,intro C150 keurig,0,0,0,60,0,,1998-03-15,0,0,0,False,,,False,,0,0,0,60,60,1998-03-16,60,,,0,0,-99,0,0,0,False,,00000000-0000-0000-0000-000000000367,0,0,,19980316:LEYLEY,1616320991
 00000000-0000-0000-0000-000000009219,True,0,0,False,,1,0,0,0,0,0,,,1,0,00000000-0000-0000-0000-000000000001,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,,,False,0,0,0,0,0,0,0,00000000-0000-0000-0000-000000009693,1998-03-29,00000000-0000-0000-0000-000000009693,0,0,,horizontal flight,0,0,0,60,0,,1998-03-28,0,0,0,False,,,False,,0,0,0,60,60,1998-03-29,60,,,0,0,-99,0,0,0,False,,00000000-0000-0000-0000-000000000368,0,0,,19980329:LEYLEY,1616320991
