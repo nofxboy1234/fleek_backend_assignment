@@ -177,5 +177,23 @@ class Flight(models.Model):
         default=1616320991, verbose_name="Record_Modified"
     )
 
+    @classmethod
+    def get_verbose_names_to_fields(cls):
+        verbose_name_fields = {}
+        for verbose_name, field_name in map(
+            lambda field: [field.verbose_name, field.name], cls._meta.fields
+        ):
+            verbose_name_fields[verbose_name] = str(field_name)
+
+        return verbose_name_fields
+
+    @classmethod
+    def get_fields_to_verbose_names(cls):
+        field_verbose_names = {}
+        for field in cls._meta.fields:
+            field_verbose_names[field.name] = str(field.verbose_name)
+
+        return field_verbose_names
+
     def __str__(self):
         return self.flight_number
