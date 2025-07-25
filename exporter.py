@@ -2,11 +2,16 @@ import csv
 
 from django.forms.models import model_to_dict
 
-from pilotlog.models import Aircraft
+from pilotlog.models import Aircraft, Flight
 
 
-def get_rows_with_verbose_fields(model_instances):
-    fields_to_verbose = Aircraft.get_fields_to_verbose_names()
+def get_rows_with_verbose_fields(model_instances, model):
+    if model == "Aircraft":
+        fields_to_verbose = Aircraft.get_fields_to_verbose_names()
+    elif model == "Flight":
+        fields_to_verbose = Flight.get_fields_to_verbose_names()
+    else:
+        raise ValueError(f"Unknown model: {model}")
 
     rows_with_verbose_fields = []
 
@@ -24,15 +29,27 @@ def get_rows_with_verbose_fields(model_instances):
     return rows_with_verbose_fields
 
 
-def export_csv(rows):
-    with open("export_data.csv", "w", newline="") as csvfile:
-        aircraft_fieldnames = Aircraft.get_verbose_names_to_fields().keys()
-        writer = csv.DictWriter(csvfile, fieldnames=aircraft_fieldnames)
+def export_csv(rows, model):
+    if model == "Aircraft":
+        with open("export_data.csv", "w", newline="") as csvfile:
+            fieldnames = Aircraft.get_verbose_names_to_fields().keys()
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        writer.writeheader()
-        writer.writerows(rows)
+            writer.writeheader()
+            writer.writerows(rows)
+
+    elif model == "Flight":
+        with open("export_data.csv", "w", newline="") as csvfile:
+            fieldnames = Flight.get_verbose_names_to_fields().keys()
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+            writer.writerows(rows)
+
+    else:
+        raise ValueError(f"Unknown model: {model}")
 
 
-def save_to_csv(rows):
-    verbose_rows = get_rows_with_verbose_fields(rows)
-    export_csv(verbose_rows)
+def save_to_csv(rows, model):
+    verbose_rows = get_rows_with_verbose_fields(rows, model)
+    export_csv(verbose_rows, model)

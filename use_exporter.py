@@ -6,11 +6,10 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
 django.setup()
 
 import exporter
-from pilotlog.models import Aircraft
+from pilotlog.models import Aircraft, Flight
 
-# get rows from db
-# [{row}, {row}]
 rows = Aircraft.objects.all()
+exporter.save_to_csv(rows, "Aircraft")
 
-# send rows to exporter
-exporter.save_to_csv(rows)
+rows = Flight.objects.all()
+exporter.save_to_csv(rows, "Flight")
