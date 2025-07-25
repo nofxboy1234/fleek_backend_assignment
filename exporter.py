@@ -36,18 +36,26 @@ def get_tables_with_rows_with_verbose_fields(tables):
 
 def export_csv(tables):
     with open("export_data.csv", "w", newline="") as csvfile:
+        text_writer = csv.writer(csvfile)
+        text_writer.writerow(["ForeFlight Logbook Import"])
+        text_writer.writerow([])
+
         for table in tables:
             if table == "Aircraft":
+                text_writer.writerow(["Aircraft Table"])
                 fieldnames = Aircraft.get_verbose_names_to_fields().keys()
             elif table == "Flight":
+                text_writer.writerow(["Flight Table"])
                 fieldnames = Flight.get_verbose_names_to_fields().keys()
             else:
                 raise ValueError(f"Unknown table: {table}")
 
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            writer.writeheader()
+            table_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            table_writer.writeheader()
             rows = tables[table]
-            writer.writerows(rows)
+            table_writer.writerows(rows)
+
+            text_writer.writerow([])
 
 
 def save_to_csv(tables):
